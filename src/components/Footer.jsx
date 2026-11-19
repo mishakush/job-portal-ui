@@ -148,7 +148,7 @@ const Footer = () => {
                   <div className="absolute inset-0 bg-gradient-to-r from-primary-600/20 to-purple-600/20 rounded-lg opacity-0 group-hover:opacity-100 transition-opacity duration-300 -inset-2"></div>
                 </a>
               </Tooltip>
-              <Tooltip content="Terms of Service: By using JobPortal, you agree to our terms including acceptable use, intellectual property rights, disclaimers, limitation of liability, and governing law. Full terms available at jobportal.com/terms (coming soon)." position="top">
+              <Tooltip content="Terms of Service: By using JobPortal, you agree to acceptable use, IP rights, disclaimers, liability limits, and governing law. Full terms at jobportal.com/terms (coming soon)." position="top">
                 <a className="group relative hover:text-white transition-colors duration-300">
                   <span className="relative z-10">Terms of Service</span>
                   <div className="absolute inset-0 bg-gradient-to-r from-primary-600/20 to-purple-600/20 rounded-lg opacity-0 group-hover:opacity-100 transition-opacity duration-300 -inset-2"></div>
