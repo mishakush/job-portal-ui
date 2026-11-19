@@ -142,7 +142,7 @@ const Footer = () => {
 
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex flex-wrap justify-center md:justify-start gap-6 text-sm text-gray-400 mb-6 md:mb-0">
-              <Tooltip content="View our privacy policy (coming soon)" position="top">
+<Tooltip content="Our Privacy Policy explains how we collect, use, and protect your personal information when you use JobPortal. It covers data collection practices, cookie usage, third-party sharing, your rights, and how to contact us with privacy concerns. Full policy coming soon." position="top">
                 <a className="group relative hover:text-white transition-colors duration-300">
                   <span className="relative z-10">Privacy Policy</span>
                   <div className="absolute inset-0 bg-gradient-to-r from-primary-600/20 to-purple-600/20 rounded-lg opacity-0 group-hover:opacity-100 transition-opacity duration-300 -inset-2"></div>
